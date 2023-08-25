@@ -1,4 +1,4 @@
 # Demo
 This is my git repository.
 <br>
-Author-Gayathri Reddi
+<h3 style="colour:red;">Author-Gayathri Reddi</h3>
