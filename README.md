@@ -1,3 +1,3 @@
 # Demo
-This is my git repository
+This is my git repository.
 author-Gayathri Reddi
